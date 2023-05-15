@@ -5,8 +5,10 @@ Welcome to my CTF Writeups repository! Here, you'll find detailed writeups for v
 Feel free to explore the writeups and learn from my approaches, thought processes, and solutions. Whether you're a beginner or an experienced CTF player, I hope you find the content here helpful and insightful.
 
 ## Table of Contents
+*More will be added...*
 
-I'm planning on adding more writups, the folders are empty as of now...
+- [Cyber Apocalypse 2021 - Nintendo Base64](CTFs/Cyber Apocalypse 2021/Nintendo_Base64.md)
+- [Incognito 2.0 - Mah Eyes are RED](CTFs/Incognito 2.0/Mah_Eyes_are_RED.md)
 
 ## How to Use
 
