@@ -34,4 +34,4 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 * Twitter: [@Cyber8RU7U5](https://twitter.com/Cyber8RU7U5)
 
-## **~ HAPPY HUNTING!**
+## HAPPY READING AND HAPPY HUNTING!
