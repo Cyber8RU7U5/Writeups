@@ -10,7 +10,7 @@
 
 A picture is given and the challenge name seems to have something to do with it...
 
-![img/MahEyesareRed-1.png](MahEyesareRed-1.png)
+![img/MahEyesareRed-1.png](img/MahEyesareRed-1.png)
 
 The title of the challenge includes a capitalized word 'RED', this gives us a slight hint that something might be hidden on the 'Red plane' of the image.
 
