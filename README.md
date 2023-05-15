@@ -8,7 +8,7 @@ Feel free to explore the writeups and learn from my approaches, thought processe
 *More will be added...*
 
 - [Cyber Apocalypse 2021 - Nintendo Base64](CTFs/Cyber%20Apocalypse%202021/Nintendo_Base64.md)
-- [Incognito 2.0 - Mah Eyes are RED](CTFs/Incognito%202.0/Mah_Eyes_are_RED.md')
+- [Incognito 2.0 - Mah Eyes are RED](CTFs/Incognito%202.0/Mah_Eyes_are_RED.md)
 
 ## How to Use
 
