@@ -19,7 +19,7 @@ Nintendo has used multiple Base64 encoding functions in a row to 'encrypt/obfusc
 
 ## Flag
 
-`CHTB{3nc0ding_n0t_3qu4l_t0_3ncrypti0n}`
+`CHTB{3nc0ding_n0t_3qu4l_t0_3ncrypt10n}`
 
 ## Conclusion
 
