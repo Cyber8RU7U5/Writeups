@@ -32,6 +32,6 @@ I would like to express my gratitude to the organizers of the CTF challenges for
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
-* Twitter: [@yourhandle](https://twitter.com/Cyber8RU7U5)
+* Twitter: [@Cyber8RU7U5](https://twitter.com/Cyber8RU7U5)
 
 ## **~ HAPPY HUNTING!**
