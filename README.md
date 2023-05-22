@@ -7,6 +7,10 @@ Feel free to explore the writeups and learn from my approaches, thought processe
 ## Table of Contents
 *They are listed from new --> old. More will be added...*
 
+- [GreyCTF'23 - Gotcha](CTFs/GreyCTF-23/Gotcha.md)
+- [GreyCTF'23 - CrashPython](CTFs/GreyCTF-23/CrashPython.md)
+- [GreyCTF'23 - Baby Crypto](CTFs/GreyCTF-23/BabyCrypto.md)
+- [GreyCTF'23 - Baby Web](CTFs/GreyCTF-23/BabyWeb.md)
 - [Intent 2022 - Down The Rabbit Hole](CTFs/Intent%202022/Down_The_Rabbit_Hole.md)
 - [Incognito 2.0 - Mah Eyes are RED](CTFs/Incognito%202.0/Mah_Eyes_are_RED.md)
 - [Cyber Apocalypse 2021 - Nintendo Base64](CTFs/Cyber%20Apocalypse%202021/Nintendo_Base64.md)
