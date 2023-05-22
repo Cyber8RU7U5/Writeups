@@ -2,10 +2,10 @@
 
 ## Challenge Information
 
-**- Name:** Gotcha
-**- Category:** Misc
-**- Points:** 50
-**- Description:** I have designed my own Captcha. If you solve it fast enough I'll give you my flag. Can you help me test it?
+- **Name:** Gotcha
+- **Category:** Misc
+- **Points:** 50
+- **Description:** I have designed my own Captcha. If you solve it fast enough I'll give you my flag. Can you help me test it?
 
 ![Gotcha-1.png](img/Gotcha-1.png)
 

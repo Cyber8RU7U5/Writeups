@@ -2,11 +2,11 @@
 
 ## Challenge Information
 
-**- Name:** Crash Python
-**- Category:** Misc
-**- Points:** 50
-**- Description:** I am hosting an uncrashable Python executor API. Crash it to get the flag.
-**- Files:** [dist.zip](files/crashpython-dist.zip)
+- **Name:** Crash Python
+- **Category:** Misc
+- **Points:** 50
+- **Description:** I am hosting an uncrashable Python executor API. Crash it to get the flag.
+- **Files:** [dist.zip](files/crashpython-dist.zip)
 
 ![CrashPython-1.png](img/CrashPython-1.png)
 

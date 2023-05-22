@@ -2,11 +2,11 @@
 
 ## Challenge Information
 
-**- Name:** Baby Web
-**- Category:** Web
-**- Points:** 50
-**- Description:** This website seems to have an issue. Let's report it to the admins.
-**- Files:** [dist.zip](files/babyweb-dist.zip)
+- **Name:** Baby Web
+- **Category:** Web
+- **Points:** 50
+- **Description:** This website seems to have an issue. Let's report it to the admins.
+- **Files:** [dist.zip](files/babyweb-dist.zip)
 
 ![BabyWeb-1.png](img/BabyWeb-1.png)
 

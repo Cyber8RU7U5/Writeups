@@ -2,10 +2,10 @@
 
 ## Challenge Information
 
-**- Name:** Baby Crypto
-**- Category:** Crypto
-**- Points:** 50
-**- Description:** I found this weird string, do you know what it means?
+- **Name:** Baby Crypto
+- **Category:** Crypto
+- **Points:** 50
+- **Description:** I found this weird string, do you know what it means?
 
 ![BabyCrypto-1.png](img/BabyCrypto-1.png)
 
